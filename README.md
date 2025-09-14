@@ -4,4 +4,3 @@
 
 ## Cours Collecte des données
 
-## Cours Conception des modèles de données IA (Fullstack/DS)
